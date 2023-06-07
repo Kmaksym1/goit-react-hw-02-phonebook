@@ -31,7 +31,6 @@ class App extends Component {
     }
   };
 
- 
   // filterContact = (evt) => {
   //   const { name, value } = evt.currentTarget;
   //   this.setState({ [name]: value });
