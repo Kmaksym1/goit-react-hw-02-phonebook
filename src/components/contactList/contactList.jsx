@@ -6,7 +6,6 @@ class ContactList extends Component {
   };
   handleInput = ({ target }) => {
       this.setState({ [target.name]: target.value });
-      
   };
 //   findCont = () => {
 //     this.props.filterContact(this.state.filter);
